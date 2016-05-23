@@ -20,4 +20,4 @@ README files:
 .. toctree::
    :glob:
 
-   README
+   ../README
