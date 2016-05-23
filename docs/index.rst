@@ -1,5 +1,5 @@
-Markdown test
--------------
+Kim's Markdown test
+-------------------
 
 Markdown files:
 
@@ -14,4 +14,11 @@ RST files:
    :glob:
 
    rst
+
+
+Kim README:
+.. toctree::
+   :glob:
+
+   README
 
