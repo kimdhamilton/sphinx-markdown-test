@@ -15,11 +15,9 @@ RST files:
 
    rst
 
-
-Kim README:
+README files:
 
 .. toctree::
    :glob:
 
    README
-
